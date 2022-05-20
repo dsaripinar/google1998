@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+#search{
+    width: 400px; 
+}
+  #first{
+    display: inline-block;
+    background-color: #d1c4c4;
+    height: 70px;
+    width: 1350px;
+  }
+  .container{
+    display: flex;
+      height: 170px;
+      width: 1400px;
+      margin:1px;
+    }
+   
+    
+  div {
+      display: inline-block;
+      height: 100px;
+      width: 400px;
+      margin:1px;
+  }
+  .bir {
+    font-size: 14px;
+    background-color:#7EE5DA ;
+    width: 40%;
+    height: 50% ;
+    margin:1px;
+  }
+  
+  .iki {
+    background-color:#6acec4;
+    width: 25%;
+    height: 50%;
+    margin:1px;
+  }
+  .üç {
+      font-size: 14px;
+    background-color: #62B3AA;
+    width: 50%;
+    height: 50%;
+    margin:1px;
+  }
